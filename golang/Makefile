@@ -5,7 +5,7 @@ GOCMD=go
 GOBUILD=$(GOCMD) build
 GOCLEAN=$(GOCMD) clean
 GOGET=$(GOCMD) get
-BINARY_NAME=myapp
+BINARY_NAME=go-test-proxy
 BINARY_UNIX=$(BINARY_NAME)_unix
 
 # Build directives
